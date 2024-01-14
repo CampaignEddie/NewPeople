@@ -1,4 +1,4 @@
-# NewPeople
+# New People
 Start here if you are joining the campaign
 
 1. Sign up for a VPN. Download, insttall, and enable for privacy. Free ot paid.
